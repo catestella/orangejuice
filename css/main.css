@@ -133,11 +133,10 @@ footer {
 	margin-left: -8px;
 }
 
-/*MEDIA QUERIES*/
+/*========================= MEDIA QUERIES =========================*/
 
-/*DISPLAY ON BROWSER*/
+/*======== DISPLAY ON BROWSER ========*/
 
-/*SEARCH ICON*/
 @media (max-width: 1114px) {
 	.fa {
 		left: 150px;
@@ -145,7 +144,6 @@ footer {
 	}
 }
 
-/*FIX!!! --- FOOTER*/
 @media (max-width: 1079px) {
 	footer {
 		margin-top: 15%;
@@ -157,9 +155,7 @@ footer {
 		margin-top: 16%;
 	}
 }
-/*FIX!!! --- FOOTER*/
 
-/*MIDDLE SECTION*/
 @media (max-width: 999px) {
 	#wrapper1 img {
 		left: 20%;
@@ -551,7 +547,7 @@ footer {
 	}
 }
 
-/*IPAD*/
+/*======== IPAD ========*/
 @media
  (min-device-width: 768px) and (max-device-width: 1024px) {
 	footer {
@@ -597,7 +593,7 @@ footer {
 	}
 }
 
-/*IPHONE 6*/
+/*======== IPHONE6 ========*/
 @media (min-device-width: 375px) and (max-device-width: 627px) {
 	footer {
 		width: 119%;
@@ -642,7 +638,7 @@ footer {
 	}
 }
 
-/*IPHONE 5*/
+/*======== IPHONE5 ========*/
 @media (min-device-width: 320px) and (max-device-width: 568px) {
 	body {
 		height: 120%;
@@ -692,7 +688,7 @@ footer {
 	}
 }
 
-/*IPHONE 4*/
+/*======== IPHONE4 ========*/
 @media (min-device-width: 320px) and (max-device-width: 480px) {
 	body {
 		height: 120%;
